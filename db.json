@@ -1,5 +1,6 @@
 {
-    "products": [{
+    "products": [
+        {
             "id": 1,
             "categories": ["portableMic"],
             "building": "Barker Center",
@@ -223,38 +224,6 @@
             "serial_number": "",
             "comments": ""
         },
-        {
-            "id": 15,
-            "categories": [ "installedMic"],
-            "building": "Carpenter Center",
-            "room": "Theater",
-            "make": "Shure",
-            "model": "ULX P4",
-            "mic_type": "HandHeld # 2",
-            "freq_range": "554 - 590 MHZ",
-            "freq_band": "J1",
-            "group": "G2",
-            "channel": "CH18",
-            "Assigned_freq": "588.375 MHz",
-            "serial_number": "",
-            "comments": ""
-        },
-        {
-            "id": 16,
-            "categories": ["installedMic"],
-            "building": "Carpenter Center",
-            "room": "Theater",
-            "make": "Shure",
-            "model": "ULX P4",
-            "mic_type": "HandHeld # 3",
-            "freq_range": "554 - 590 MHZ",
-            "freq_band": "J1",
-            "group": "G2",
-            "channel": "CH19",
-            "Assigned_freq": "588.800 MHz",
-            "serial_number": "",
-            "comments": ""
-        }
        
     ],
 
